@@ -105,10 +105,11 @@ npm run dev
 
 Add your project screenshots here.
 
-Example:
-- Homepage
-- Notes Dashboard
-- Add Notes Section
+<img width="1521" height="842" alt="Home" src="https://github.com/user-attachments/assets/7d2df66d-076d-4c81-901a-ee55e484a6e7" />
+
+<img width="1511" height="841" alt="Create Page" src="https://github.com/user-attachments/assets/294a222e-4bbd-404a-91c8-9a88f9652d60" />
+
+
 
 ---
 
