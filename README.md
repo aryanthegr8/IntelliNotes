@@ -127,8 +127,5 @@ Add your project screenshots here.
 
 **Aryan Mathur**
 
----
 
-## 📄 License
 
-This project is licensed under the MIT License.
